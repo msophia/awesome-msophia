@@ -1,0 +1,17 @@
+				PROJET BI
+
+Profeseur: Madame COULIBALY Miwossa
+
+1-	Création d’une base de données hypermarché sur le SGBD de votre choix.
+-	Le processus :
+-	A l’aide de l’ETL data services faite l’extraction de du fichier Excel travaux pratique ensuite le transformer et le chargé dans votre base de données, nommées cette table supermarché.
+2-	Conception de tableau de bord
+-	Créer un état des ventes par segment ;
+-	Créer un état des ventes par catégorie ;
+-	Créer un état des meilleurs clients ;
+-	Créer un état de la répartition des ventes par catégorie ;
+-	Créer un état représentant la cartographie des ventes ;
+-	Créer deux tableaux de bord à partir de ces états conçus ;
+-	Créer les hiérarchies possibles entre les données ; 
+-	Ajouter tous les filtres possibles aux états et tableaux de bord réaliser sans oublier la date. 
+
