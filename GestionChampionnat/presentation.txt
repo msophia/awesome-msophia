@@ -1,0 +1,13 @@
+une application gérant les informations inhérentes à plusieurs championnats de football a été demandée. Elle a pour but de permettre aux personnes qui l’utiliseront de s’informer sur les résultats, les classements et les programmes des journées de chaque championnat. 
+Cette application doit pouvoir être réutilisée pour différents championnats, différentes saisons et différentes divisions.
+Ses principales fonctions doivent remplir les tâches suivantes :
+	Gestion des championnats.
+	Gestion des équipes d’un championnat.
+	Gestion du calendrier d’un championnat.
+	Gestion des résultats pour chaque journée.
+	Gestion du classement d’un championnat.
+	Gestion des résultats pour chaque équipe. 
+
+Dans le cadre de notre analyse, nous avons choisi d’utiliser le langage UML. 
+Pour la mise en œuvre de notre application, nous avons utilisé le langage C++ avec comme outil de développement  Code::Blocks.
+DB Browser for SQLite, c’est un outil visuel et open source de haute qualité pour créer, concevoir et éditer des fichiers de base de données compatibles avec SQLite. Nous l’avons utilisé pour la création de la base de données.
