@@ -8,11 +8,11 @@
 <h2 dir="auto"><a id="user-content--awesome-go" class="anchor" aria-hidden="true" href="#references"></a> Références Professionnelles </h2> 
 
 
-<a href="#" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> > DJOBA CASH & TTS.SA - Côte d’Ivoire (Abidjan) France ()</font></font></b></a> <br>
-<i>  M. LOIC OUATTARA, Co fondateur | cel:.....</i>	
+<a href="#" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> > DJOBA CASH & TTS.SA - Côte d’Ivoire (Abidjan) - France</font></font></b></a> <br>
+<i>  M. LOIC OUATTARA, Co fondateur | cel: +33 6 58 16 75 71</i>	
 
 <a href="#" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> > CNTIG Côte d’Ivoire (Abidjan)</font></font></b></a><br>
-<i>  M. SALIA LOUA OLIVIER, Co fondateur | cel:.....</i>	
+<i>  M. SALIA LOUA OLIVIER, Architect Solution | cel: +225 05 05 22 13 77</i>	
 
 		
 <h2 dir="auto"><a id="user-content--awesome-go" class="anchor" aria-hidden="true" href="#references"></a> Réalisations </h2> 
